@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentation", "PHAN MEM QUAN LY NHA SACH\Presentation.csproj", "{9BBDBF9F-8A9B-4DA2-A6A2-E2E873442ADA}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://teamstt.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = PHAN\u0020MEM\u0020QUAN\u0020LY\u0020NHA\u0020SACH\\Presentation.csproj
+		SccProjectName1 = PHAN\u0020MEM\u0020QUAN\u0020LY\u0020NHA\u0020SACH
+		SccLocalPath1 = PHAN\u0020MEM\u0020QUAN\u0020LY\u0020NHA\u0020SACH
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BBDBF9F-8A9B-4DA2-A6A2-E2E873442ADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BBDBF9F-8A9B-4DA2-A6A2-E2E873442ADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BBDBF9F-8A9B-4DA2-A6A2-E2E873442ADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BBDBF9F-8A9B-4DA2-A6A2-E2E873442ADA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
