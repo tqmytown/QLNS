@@ -35,5 +35,10 @@ namespace PHAN_MEM_QUAN_LY_NHA_SACH
         {
             MessageBox.Show(md5(txtUser.Text));
         }
+
+        private void Login_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
